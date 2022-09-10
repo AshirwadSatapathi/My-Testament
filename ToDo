@@ -1,0 +1,10 @@
+My To Do List of chapters - 
+
+  1. Build a worker service to process messages from Azure Service Bus 
+  2. Build an application to send SMS alerts using Twilio and Azure Function
+  3. Build an Inventory app with Azure Functions and Azure SQL
+  4. Build a Multi-language text translator using Azure Cognitive Services
+  5. Build an IoT Solution with Azure IoT Hub, Azure Function and Azure Cosmos DB
+  
+
+
