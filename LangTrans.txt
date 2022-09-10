@@ -1,0 +1,3 @@
+Build a Multi-language text translator using Azure Cognitive Services
+
+The world around us has been embracing AI to build intelligent solutions. Often times, it requires vast amount of data, expertise in certain areas and huge amount computation resources to create AI models which can be integrated with our application to make them intelligent.
