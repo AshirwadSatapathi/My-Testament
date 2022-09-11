@@ -2,5 +2,10 @@ Build a Multi-language text translator using Azure Cognitive Services
 
 The world around us has been embracing AI to build intelligent solutions like never before. Many applications coming to the market these days, come of intelligent features out of the box. Some of the common example can be to auto complete texts in case of chat based apps, facial recognition in case of unlocking of our smart phones. Often times, these features aren't easy to build and involves complex algorithms. Most of the times, these complex algorithms require vast amount of data, extensive research and huge amount computation resources to train, process and build AI models. Many companies may not even have the required resources to build their own AI Models for a particular use cases. To over come this, we tend use services or pre trained AI models offered by other comapnies.
 
+In this chapter, we explore ways to integrate AI to our applications by leveraging the power of Azure Cognitive Services. It is a set services which allow us to use the state of the art algorithms and AI models developed by Microsoft to perform a range operations ranging from speech recognition to image classification. By end of this chapter, we will build an web API which will be able to translate text from one langauge to another.
+
+
+
+
 
 
