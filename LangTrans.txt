@@ -4,7 +4,14 @@ The world around us has been embracing AI to build intelligent solutions like ne
 
 In this chapter, we explore ways to integrate AI to our applications by leveraging the power of Azure Cognitive Services. It is a set services which allow us to use the state of the art algorithms and AI models developed by Microsoft to perform a range operations ranging from speech recognition to image classification. By end of this chapter, we will build an web API which will be able to translate text from one langauge to another.
 
+Azure Cognitive Service 
 
+Microsoft provides a suite of cloud based AI services to add intelligence to application by leveraging the state of the art AI models built and designed over the period of time by doing extensive research. They call this suite of cloud based AI service as Azure Cognitive Service. These services helps developers add cognitive capabilities to their applications with prior knowledge of Machine Learning or AI. These services provides a set of REST APIs and client libraries which we can leverage to integrate the prowess of these cognitive services into our applications to make them smart.
+
+Cognitive Services in Azure are broadly classified into four categtories -
+1. Vision - Vision API comprises of the Computer Vision, Custom Vision and Face services. As the name suggests, the set of services falling under this category assists our application to work with Image based data and make intelligent decision. A use case where the vision service can come in handy is Facial Recognition or Character Recgontion.
+
+2. Speech - Speech 
 
 
 
